@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="PHP/Surround with '!empty'" />
-    <ignoreAction name="PHP/Surround with 'isset'" />
-  </component>
-</application>

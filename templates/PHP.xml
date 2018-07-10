@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="test" value="/** @test */&#10;function it_$NAME$() {&#10;&#10;}" description="Unit test template" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
